@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/StatDef[defName="LeatherAmount"]/parts</xpath>
+    <value>
+      <li Class="GiveMeLeather.StatPart_LeatherAmount" />
+    </value>
+  </Operation>
+
+</Patch>

@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\GiveMeLeather\Assemblies\GiveMeLeather.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\GiveMeLeather\Source\GiveMeLeather\obj\Debug\GiveMeLeather.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\GiveMeLeather\Source\GiveMeLeather\obj\Debug\GiveMeLeather.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\GiveMeLeather\Assemblies\GiveMeLeather.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Give me Leather\Assemblies\GiveMeLeather.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Give me Leather\Source\GiveMeLeather\obj\Debug\GiveMeLeather.dll

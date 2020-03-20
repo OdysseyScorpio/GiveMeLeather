@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <GMLATMLabel>Amount to multiply leather by (100% is vanilla):</GMLATMLabel>
+  
+  <GMLATMTitle>Give Me Leather</GMLATMTitle>
+ 
+  <GMLstatDescription>Give Me Leather bonus</GMLstatDescription>
+
+  <GMLAdviseRestart>WARNING: You must restart Rimworld for these changes to take effect!</GMLAdviseRestart>
+</LanguageData>

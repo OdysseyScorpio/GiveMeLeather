@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Give Me Leather</name>
+	<author>OdysseyScorpio</author>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>OdysseyScorpio.givemeleather.2020.03.20</packageId>
+	<description>Hate how little leather you get from hunting beasts? This mod lets you change how much leather you get from killing pawns. Works on humans, too.
+
+With permissin and based on Neceros's Give me Meat mod 
+</description>
+</ModMetaData>

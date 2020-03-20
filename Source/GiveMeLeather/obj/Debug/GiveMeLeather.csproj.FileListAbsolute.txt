@@ -1,0 +1,3 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Give me Leather\Assemblies\GiveMeLeather.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Give me Leather\Source\GiveMeLeather\obj\Debug\GiveMeLeather.csprojResolveAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Give me Leather\Source\GiveMeLeather\obj\Debug\GiveMeLeather.dll
